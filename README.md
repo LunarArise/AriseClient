@@ -7,7 +7,7 @@ Created with 💙 by **Fusion Softworks**
 
 ## 📸 Main Menu
 
-![Image of Main Menu](https://cdn.discordapp.com/attachments/1360175889647796268/1367469765240684604/k.png?ex=6814b2f6&is=68136176&hm=760d45398c5af80ce273be246245f0b9f4357ca406e984bc856658b925c96413&)
+![Image of Main Menu](https://cdn.discordapp.com/attachments/1360175889647796268/1367469766264225802/e.png?ex=6814b2f6&is=68136176&hm=add4d319a7f67b64d33d151c95cbc82b59dca53fcbf52411993e948ac75f63b8&)
 
 ---
 
