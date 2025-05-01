@@ -1,7 +1,7 @@
 # 🌌 Arise Client
 
 **The ultimate go-to multitool for modifying and managing the _SchoolBoy Runaway_ game with ease.**  
-Created with 💙 by **Fusion Softworks**
+Created with 💙 by **Arise Softworks**
 
 ---
 
@@ -99,4 +99,4 @@ No dependencies or installers required thanks to embedded DLLs (Costura.Fody).
 ## 👥 Credits
 
 **Owners:**
-- `Mark` → _markedas_ / Discord: `1318285859023229020`
+- `Mark` → _xmxrkbased_ / Discord: `1282116309802422433`
